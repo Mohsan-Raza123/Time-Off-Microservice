@@ -1,3 +1,12 @@
+## Setup and Run Instructions
+This project is built with NestJS and SQLite. Follow these steps to run it locally:
+
+1. **Install Dependencies:**
+   Run `npm install` in your terminal to install all required packages.
+2. **Run the Test Suite (Proof of Rigor):**
+   Run `npm run test:e2e` to execute the end-to-end tests and mock integration.
+3. **Start the Microservice:**
+   Run `npm run start` to start the local server. The API will be available at `http://localhost:3000`.
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
